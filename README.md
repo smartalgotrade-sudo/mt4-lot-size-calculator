@@ -40,6 +40,8 @@ The result appears in a pop-up window and in the **Experts** tab of the terminal
 
 ## Guide: how to install an Expert Advisor (Forex robot) in MT4
 
+Full guide: [Install an Expert Advisor into MetaTrader 4](https://www.smartalgotrade.com/install-expert-advisor-into-metatrader-4/)
+
 1. Click **File → Open Data Folder** and open **MQL4 → Experts**.
 2. Copy the Expert Advisor file (`.ex4` or `.mq4`) into this folder.
 3. Restart MT4, or right-click **Expert Advisors** in the Navigator and choose **Refresh**.
@@ -49,7 +51,6 @@ The result appears in a pop-up window and in the **Experts** tab of the terminal
 7. Make sure the **AutoTrading** button on the toolbar is green and a smiley face appears in the top-right corner of the chart.
 
 **Tip:** an Expert Advisor trades only while MT4 is open. For 24/5 trading, run MT4 on a VPS.
-
 ### Expert Advisor not trading? Common problems
 
 | Problem | Fix |
